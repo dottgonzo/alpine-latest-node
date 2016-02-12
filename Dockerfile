@@ -3,4 +3,3 @@ RUN apk update
 RUN apk add nodejs git
 RUN npm i mocha -g
 RUN npm i gulp -g
-RUN npm i forever -g
